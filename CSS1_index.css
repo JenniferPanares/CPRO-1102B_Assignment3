@@ -44,9 +44,9 @@ body {
 
 
   h2 {
-	text-align: left;
+	text-align: center;
 	color: #7F0037;
-	font-size: 1.5em;
+	font-size: 2.2em;
 	font-family: "CatPaw";
   }
 
@@ -67,9 +67,7 @@ body {
 }
 
 #grooming {
-	border-top: 5px dotted rgb(204, 51, 191);
-	
-	
+	border-top: 5px dotted rgb(204, 51, 191);	
 }
 
 
